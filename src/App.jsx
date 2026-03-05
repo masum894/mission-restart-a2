@@ -1,5 +1,7 @@
+
 import Navbar from "./Navbar";
 import TicketSystem from "./TicketSystem";
+import Footer from "./Footer";
 
 
 
@@ -9,6 +11,8 @@ function App() {
       <Navbar></Navbar>
       
       <TicketSystem></TicketSystem>
+
+      <Footer></Footer>
       
     </div>
   );
